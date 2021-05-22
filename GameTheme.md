@@ -2,13 +2,6 @@
 Unity version 2019.4.21f1 (LTS)
 
 
-## Milestones
-
-1. Milestone (week 4): Requirement analysis and planning: user stories, use case diagram, class diagram, mockups about how the game will look like.
-2. Milestone (week 7): 30% of features are ready, the project is version controlled, documentation in the code.
-3. Milestone (week 10): 90% of features are ready, the project is version controlled, documentation in the code, CI is used, there are some unit tests.
-4. Milestone (week 13): 100% of features are ready, the project is version controlled, documentation in the code, CI is used, comprehensive unit tests, clean code.
-
 # The Game: Amusement Park
 
 ## Introduction
@@ -48,24 +41,4 @@ There are two kind of staff:
 - Cleaner: They keep the park clean by removing thrash from the paths. They move around in their designated area. More of them can be employed and they can also be moved around if they are needed elsewhere.
 
 - Repairman: They repair the games that are broken. Repairing a game costs time and money. They always go to and repair the game that has broken down the earliest.
-
-## Tasks for Building the Game
-- [ ] Doing the view part of the game, implementing building.
-- [ ] Doing the model part which contains the games, the restaurants, plants, paths, and the staff.
-- [ ] Implementing pathfinding – the vertices of the graph will be the games, restaurants, crossroads of the paths, and the entrance of the park.
-- [ ] Implementing the logic of the game: the behaviour of the guests and staff and the logic of their interactions.
-
-## Advice
-- Although the game is real-time, time of course flies in the simulation faster than in the real world.
-
-- In the prototype phase, the things in the game can be shown with temporary pictures. They should be changed to at least symbolic images in the final product.
-
-- The characters and the games don’t have to be animated. The games should show their status (in use, waiting, under repair, being built). The characters should move along the paths.
-
-## Extension for teams with 4 members
-- The guests no longer have infinite money. The player can build ATMs where they can get more money (they still have infinite money in their account).
-
-- There are thieves in the park! They have a thieves den in the sewers below the park. Its entrance is somewhere on a path, preferably at a crossroads far from the entrance of the park. The thieves target the guests and try to steal their money. Each thief has a skill level between 0 and 100. If a random number between 0 and 100 is less than the skill level, the thief will successfully steal the money. Otherwise the guest will call security and the thief will have to run.
-
-- There is a new building for the security forces of the park. There is also a new staff type called security which roams the paths of the park. If a guest calls security then all the security in the park will try to catch the thief. The thief is faster than the security and he will try to avoid security and get to the thieves den before beign caught. If a thief is caught he will be escorted to the security building, then the police will be called. The police will enter the park through the entrance, get to the security building, then escort the thief out of the park.
 
