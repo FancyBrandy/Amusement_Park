@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b341c1bc4ff00e545b5c85e8cbda60e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - guardText: {instanceID: 0}
+  - repairmanText: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  - moneyText: {instanceID: 0}
+  - guestText: {instanceID: 0}
+  - remy: {fileID: 1798776324532124216, guid: 8ca33d0f28820774c9a026f1c0ef84bf, type: 3}
+  - stefani: {fileID: 8319914452948094367, guid: 27e33f080b76c184893284c994e81fac,
+      type: 3}
+  - sewer_entrance: {fileID: 2860346588557018069, guid: c2d27f9c5d0e7354fb7fbcb19c9e7d71,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

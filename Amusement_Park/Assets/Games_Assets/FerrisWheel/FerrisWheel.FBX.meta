@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: 1d96485995b531749a4340f4aa6547bd
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: locator14
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: polySurface2
+  - first:
+      1: 100006
+    second: pSphere25
+  - first:
+      1: 100008
+    second: pSphere26
+  - first:
+      1: 100010
+    second: seats
+  - first:
+      1: 100012
+    second: seats 1
+  - first:
+      1: 100014
+    second: seats1
+  - first:
+      1: 100016
+    second: seats10
+  - first:
+      1: 100018
+    second: seats11
+  - first:
+      1: 100020
+    second: seats2
+  - first:
+      1: 100022
+    second: seats3
+  - first:
+      1: 100024
+    second: seats4
+  - first:
+      1: 100026
+    second: seats5
+  - first:
+      1: 100028
+    second: seats6
+  - first:
+      1: 100030
+    second: seats7
+  - first:
+      1: 100032
+    second: seats8
+  - first:
+      1: 100034
+    second: seats9
+  - first:
+      1: 100036
+    second: stand
+  - first:
+      1: 100038
+    second: wheel
+  - first:
+      4: 400000
+    second: locator14
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: polySurface2
+  - first:
+      4: 400006
+    second: pSphere25
+  - first:
+      4: 400008
+    second: pSphere26
+  - first:
+      4: 400010
+    second: seats
+  - first:
+      4: 400012
+    second: seats 1
+  - first:
+      4: 400014
+    second: seats1
+  - first:
+      4: 400016
+    second: seats10
+  - first:
+      4: 400018
+    second: seats11
+  - first:
+      4: 400020
+    second: seats2
+  - first:
+      4: 400022
+    second: seats3
+  - first:
+      4: 400024
+    second: seats4
+  - first:
+      4: 400026
+    second: seats5
+  - first:
+      4: 400028
+    second: seats6
+  - first:
+      4: 400030
+    second: seats7
+  - first:
+      4: 400032
+    second: seats8
+  - first:
+      4: 400034
+    second: seats9
+  - first:
+      4: 400036
+    second: stand
+  - first:
+      4: 400038
+    second: wheel
+  - first:
+      23: 2300000
+    second: polySurface2
+  - first:
+      23: 2300002
+    second: pSphere25
+  - first:
+      23: 2300004
+    second: pSphere26
+  - first:
+      23: 2300006
+    second: seats 1
+  - first:
+      23: 2300008
+    second: seats1
+  - first:
+      23: 2300010
+    second: seats10
+  - first:
+      23: 2300012
+    second: seats11
+  - first:
+      23: 2300014
+    second: seats2
+  - first:
+      23: 2300016
+    second: seats3
+  - first:
+      23: 2300018
+    second: seats4
+  - first:
+      23: 2300020
+    second: seats5
+  - first:
+      23: 2300022
+    second: seats6
+  - first:
+      23: 2300024
+    second: seats7
+  - first:
+      23: 2300026
+    second: seats8
+  - first:
+      23: 2300028
+    second: seats9
+  - first:
+      23: 2300030
+    second: stand
+  - first:
+      33: 3300000
+    second: polySurface2
+  - first:
+      33: 3300002
+    second: pSphere25
+  - first:
+      33: 3300004
+    second: pSphere26
+  - first:
+      33: 3300006
+    second: seats 1
+  - first:
+      33: 3300008
+    second: seats1
+  - first:
+      33: 3300010
+    second: seats10
+  - first:
+      33: 3300012
+    second: seats11
+  - first:
+      33: 3300014
+    second: seats2
+  - first:
+      33: 3300016
+    second: seats3
+  - first:
+      33: 3300018
+    second: seats4
+  - first:
+      33: 3300020
+    second: seats5
+  - first:
+      33: 3300022
+    second: seats6
+  - first:
+      33: 3300024
+    second: seats7
+  - first:
+      33: 3300026
+    second: seats8
+  - first:
+      33: 3300028
+    second: seats9
+  - first:
+      33: 3300030
+    second: stand
+  - first:
+      43: 4300000
+    second: stand
+  - first:
+      43: 4300002
+    second: seats
+  - first:
+      43: 4300004
+    second: seats1
+  - first:
+      43: 4300006
+    second: seats2
+  - first:
+      43: 4300008
+    second: seats3
+  - first:
+      43: 4300010
+    second: seats4
+  - first:
+      43: 4300012
+    second: seats6
+  - first:
+      43: 4300014
+    second: seats5
+  - first:
+      43: 4300016
+    second: seats7
+  - first:
+      43: 4300018
+    second: seats8
+  - first:
+      43: 4300020
+    second: seats9
+  - first:
+      43: 4300022
+    second: seats10
+  - first:
+      43: 4300024
+    second: seats11
+  - first:
+      43: 4300026
+    second: polySurface2
+  - first:
+      43: 4300028
+    second: pSphere25
+  - first:
+      43: 4300030
+    second: pSphere26
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 1250
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: locator14
+        weight: 1
+      - path: locator14/wheel
+        weight: 1
+      - path: locator14/wheel/polySurface2
+        weight: 1
+      - path: locator14/wheel/polySurface2/pSphere25
+        weight: 1
+      - path: locator14/wheel/polySurface2/pSphere26
+        weight: 1
+      - path: seats
+        weight: 1
+      - path: seats/seats 1
+        weight: 1
+      - path: seats/seats1
+        weight: 1
+      - path: seats/seats2
+        weight: 1
+      - path: seats/seats3
+        weight: 1
+      - path: seats/seats4
+        weight: 1
+      - path: seats/seats5
+        weight: 1
+      - path: seats/seats6
+        weight: 1
+      - path: seats/seats7
+        weight: 1
+      - path: seats/seats8
+        weight: 1
+      - path: seats/seats9
+        weight: 1
+      - path: seats/seats10
+        weight: 1
+      - path: seats/seats11
+        weight: 1
+      - path: stand
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 3
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,25 @@
+stages: 
+  - build
+  - test
+
+
+unity-build: 
+  script: "E:/Unity/Editor/Unity.exe --quit -batchmode -projectPath ./Amusement_Park  -executeMethod BuildScript.PerformBuild"
+    
+  stage: build
+  tags: 
+    - ci
+    
+unity-test: 
+  script:  "E:/Unity/Editor/Unity.exe -batchmode -projectPath ./Amusement_Park -runTests  -testResults ./Amusement_Park/unit-tests.xml"
+  stage: test
+  tags: 
+    - ci
+    
+#unity-deploy:
+#  script:
+#    - echo "Hello World"
+#    - echo "Hello Unity"
+#  stage: test
+#  tags:
+#    - ci

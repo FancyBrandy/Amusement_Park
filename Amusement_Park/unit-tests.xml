@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="2" result="Failed(Child)" total="2" passed="1" failed="1" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2021-05-02 22:21:15Z" end-time="2021-05-02 22:21:16Z" duration="0.1188374">
+  <test-suite type="TestSuite" id="1008" name="A Muse Meant Park" fullname="A Muse Meant Park" runstate="Runnable" testcasecount="2" result="Failed" site="Child" start-time="2021-05-02 22:21:15Z" end-time="2021-05-02 22:21:16Z" duration="0.118837" total="2" passed="1" failed="1" inconclusive="0" skipped="0" asserts="0">
+    <properties />
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="Assembly" id="1012" name="Assembly-CSharp-Editor.dll" fullname="E:/ELTE_Semester_4/software_Technology/Workspace/fantastic-4/Amusement_Park/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" runstate="Runnable" testcasecount="2" result="Failed" site="Child" start-time="2021-05-02 22:21:16Z" end-time="2021-05-02 22:21:16Z" duration="0.071523" total="2" passed="1" failed="1" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="5560" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="EditMode" />
+      </properties>
+      <test-suite type="TestFixture" id="1009" name="DynamicUITest" fullname="DynamicUITest" classname="DynamicUITest" runstate="Runnable" testcasecount="1" result="passed" site="Child" start-time="2021-05-02 22:21:16Z" end-time="2021-05-02 22:21:16Z" duration="0.068143" total="1" passed="1" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-case id="1010" name="demoTest" fullname="DynamicUITest.demoTest" methodname="demoTest" classname="DynamicUITest" runstate="Runnable" seed="400545287" result="Passed" start-time="2021-05-02 22:21:16Z" end-time="2021-05-02 22:21:16Z" duration="0.026835" asserts="0">
+          <properties />
+          <reason>
+            <message><![CDATA[]]></message>
+          </reason>
+        </test-case>
+        
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

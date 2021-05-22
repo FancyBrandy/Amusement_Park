@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 69aa79aaa1c29f948a7307cf1614403f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pathPreview: {instanceID: 0}
+  - airPlanePreview: {instanceID: 0}
+  - cliffHangerPreview: {fileID: 100002, guid: c6875bebc70f8f641b85c27c8872bdf9, type: 3}
+  - enterprisePreview: {instanceID: 0}
+  - ferrisWheelPreview: {instanceID: 0}
+  - rollerCoasterPreview: {instanceID: 0}
+  - teacupPreview: {instanceID: 0}
+  - clawPreview: {instanceID: 0}
+  - troikaPreview: {instanceID: 0}
+  - windSeekerPreview: {instanceID: 0}
+  - wipeoutPreview: {instanceID: 0}
+  - buildSystem: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
