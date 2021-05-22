@@ -3,7 +3,7 @@ A beautiful game that simulates an amusement park. You can build, destroy, manag
 
 # Developers (Team Members):
 1) <a href="https://github.com/FancyBrandy">Danqing Chen (Fancy)</a>
-2) <a href="https://github.com/https://github.com/Mohido">Mohammed Al-Mahdawi (Mohido)</a>
+2) <a href="https://github.com/Mohido">Mohammed Al-Mahdawi (Mohido)</a>
 3) <a href="https://github.com/the4t4">Timur Ismailov (the4t4)</a>
 4) Wenting Miao
 
@@ -14,6 +14,21 @@ A beautiful game that simulates an amusement park. You can build, destroy, manag
 3) C# was used as a scripting language.
 
 
+# How it looks:
+<br/>
+Main menu: <br/>
+![main_menu](https://user-images.githubusercontent.com/48254077/119241192-f0691e80-bb54-11eb-866c-fbc836c2529c.jpg)
+<br/><hr/><br/>
+Building:<br/>
+![image](https://user-images.githubusercontent.com/48254077/119241226-1db5cc80-bb55-11eb-99e7-2d1b2c02fe8e.png)
+<br/><hr/><br/>
+Destroy:<br/>
+![image](https://user-images.githubusercontent.com/48254077/119241239-40e07c00-bb55-11eb-9ec9-151e4e2065d4.png)
+<br/><hr/><br/>
+Maintain:<br/>
+![image](https://user-images.githubusercontent.com/48254077/119241258-64a3c200-bb55-11eb-9353-e31f95070340.png)
+<br/><hr/><br/>
+AND MORE!
 
 # How to Run on Unity:
 1) Make sure to have Unity 2019+ installed (No promises for older versions!).
