@@ -5,7 +5,7 @@ A beautiful game that simulates an amusement park. You can build, destroy, manag
 1) <a href="https://github.com/FancyBrandy">Danqing Chen (Fancy)</a>
 2) <a href="https://github.com/Mohido">Mohammed Al-Mahdawi (Mohido)</a>
 3) <a href="https://github.com/the4t4">Timur Ismailov (the4t4)</a>
-4) Wenting Miao
+4) <a href="https://github.com/WentingMiao">Wenting Miao</a>
 
 
 # Tools used:
